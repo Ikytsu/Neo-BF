@@ -1,4 +1,4 @@
 # Neo-BF
-A compiled adaptation of Brainf*ck intended to be usable as a daily programming language, maintaining the concept of minimalism, Brainf\*ck have (as a non-esoteric programming language)
+A compiled adaptation of EasierBrainf*ck (ebf: https://github.com/Ikytsu/Easier-BF)  intended to offer modifiability and expand possibilities while maintaining its minimalist concept.
 
 **Work in progress**
